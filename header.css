@@ -19,11 +19,11 @@ ul{
 
 ul li a{
     text-decoration: none;
-    color: blue;
+    color: black;
 }
 
 ul li a:hover{
-    color: black;
+    color: rgb(59, 59, 211);
     text-decoration: underline;
 }
 
